@@ -16,7 +16,7 @@ In this module challenge you will continue working on your portfolio website to 
 
 It goes without saying that this skill is essential for a professional Web Developer. Imagine trying to visit a store's webpage on your phone and not being able to even read the names of items? That would be totally unacceptable in this day and age! Same goes for a web developer's portfolio site.
 
-In this challenge you will refactor your personal portfolio code to make it responsive. You have the ability to write HTML, CSS, and responsive media queries. You also know how to identify and write responsive units. It's time to put that knowledge into action!
+In this challenge you will refactor your personal portfolio code to make it responsive. You have the ability to write HTML, CSS, and responsive media queries. You also know how to identify and write responsive units. It's time to put that knowledge into action! 
 
 ## Instructions
 
@@ -86,4 +86,3 @@ Follow these steps for completing your project.
 - [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
 - [ ] Add your team lead as a reviewer on the pull-request
 - [ ] Your team lead will count the project as complete by merging the branch back into master.
-
